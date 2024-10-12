@@ -1,0 +1,17 @@
+# Node modules
+node_modules/
+
+# Developing Things 
+Requirement.md
+problems.md
+Implement.md
+RESTful_API_guide.md
+
+# package
+package-lock.json
+
+# vim
+*~
+
+# my build
+dist/
